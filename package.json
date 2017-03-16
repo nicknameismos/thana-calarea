@@ -1,0 +1,19 @@
+{
+  "name": "thana-calarea",
+  "version": "1.0.0",
+  "description": "my package frist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicknameismos/thana-calarea.git"
+  },
+  "author": "mynameissarawut@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicknameismos/thana-calarea/issues"
+  },
+  "homepage": "https://github.com/nicknameismos/thana-calarea#readme"
+}
